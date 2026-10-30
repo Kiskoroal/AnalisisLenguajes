@@ -1,0 +1,1 @@
+/home/kiskoroal/Escritorio/SAURON/analisis/rust/target/release/benchmark-rust: /home/kiskoroal/Escritorio/SAURON/analisis/rust/src/main.rs /home/kiskoroal/Escritorio/SAURON/analisis/rust/src/priority_queue.rs /home/kiskoroal/Escritorio/SAURON/analisis/rust/src/tarea.rs

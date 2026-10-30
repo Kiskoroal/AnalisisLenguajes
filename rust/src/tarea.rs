@@ -1,6 +1,6 @@
 use std::cmp::Ordering;
 
-#[derive(Eq, PartialEq)]
+#[derive(Eq, PartialEq, Copy, Clone)]
 pub enum Prioridad { Baja = 0, Alta = 1, Urgente = 2 }
 
 #[derive(Eq, PartialEq)]

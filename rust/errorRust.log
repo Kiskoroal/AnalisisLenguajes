@@ -1,0 +1,33 @@
+   Compiling benchmark-rust v0.1.0 (/home/kiskoroal/Escritorio/SAURON/analisis/rust)
+error[E0507]: cannot move out of `self.prioridad` which is behind a shared reference
+  --> src/tarea.rs:15:25
+   |
+15 |         let prio_cmp = (self.prioridad as u8).cmp(&(other.prioridad as u8));
+   |                         ^^^^^^^^^^^^^^ move occurs because `self.prioridad` has type `Prioridad`, which does not implement the `Copy` trait
+   |
+note: if `Prioridad` implemented `Clone`, you could clone the value
+  --> src/tarea.rs:4:1
+   |
+ 4 | pub enum Prioridad { Baja = 0, Alta = 1, Urgente = 2 }
+   | ^^^^^^^^^^^^^^^^^^ consider implementing `Clone` for this type
+...
+15 |         let prio_cmp = (self.prioridad as u8).cmp(&(other.prioridad as u8));
+   |                         -------------- you could clone this value
+
+error[E0507]: cannot move out of `other.prioridad` which is behind a shared reference
+  --> src/tarea.rs:15:53
+   |
+15 |         let prio_cmp = (self.prioridad as u8).cmp(&(other.prioridad as u8));
+   |                                                     ^^^^^^^^^^^^^^^ move occurs because `other.prioridad` has type `Prioridad`, which does not implement the `Copy` trait
+   |
+note: if `Prioridad` implemented `Clone`, you could clone the value
+  --> src/tarea.rs:4:1
+   |
+ 4 | pub enum Prioridad { Baja = 0, Alta = 1, Urgente = 2 }
+   | ^^^^^^^^^^^^^^^^^^ consider implementing `Clone` for this type
+...
+15 |         let prio_cmp = (self.prioridad as u8).cmp(&(other.prioridad as u8));
+   |                                                     --------------- you could clone this value
+
+For more information about this error, try `rustc --explain E0507`.
+error: could not compile `benchmark-rust` (bin "benchmark-rust") due to 2 previous errors
