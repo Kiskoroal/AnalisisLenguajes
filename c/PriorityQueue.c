@@ -122,10 +122,10 @@ void push(PriorityQueue* cola, Tarea t)
     cola->elementos++;
 }
 
-const Tarea* top(PriorityQueue* cola) 
+Tarea top(PriorityQueue* cola) 
 {
     assert(cola != NULL && cola->elementos > 0);
-    return &cola->colaTareas[0];
+    return cola->colaTareas[0];
 }
 
 bool vacia(PriorityQueue* cola) { return cola == NULL || cola->elementos == 0; }

@@ -20,6 +20,6 @@ bool vacia(PriorityQueue* cola);
 
 void push(PriorityQueue* cola, Tarea t);
 void pop(PriorityQueue* cola);
-const Tarea* top(PriorityQueue* cola);
+Tarea top(PriorityQueue* cola);
 
 #endif
