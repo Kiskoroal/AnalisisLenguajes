@@ -5,9 +5,6 @@
 #include "Tarea.h" //Declaración por claridad
 #include "PriorityQueue.h"
 
-// Esta macro le dice al compilador que habilite las funciones POSIX (como el reloj)
-#define _POSIX_C_SOURCE 199309L
-
 PriorityQueue* introducirTareas(size_t numTareas) 
 {
     PriorityQueue* colaT = crearCola(numTareas);
@@ -24,10 +21,10 @@ void despacharTareas(PriorityQueue* tareas)
 {
     while(!(vacia(tareas))) 
     {
-        Tarea* tDespachar = top(tareas);
+        Tarea tDespachar = top(tareas);
 
-        while(tDespachar->tiempoRestante > 0) 
-            tDespachar->tiempoRestante--;
+        while(tDespachar.tiempoRestante > 0) 
+            tDespachar.tiempoRestante--;
         
         pop(tareas);
     }
