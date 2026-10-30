@@ -78,7 +78,7 @@ int main(int argc, char* argv[])
 
     destruirCola(colaT);
 
-    printf("%d : %f", numTareas, t1 - t0);
+    printf("%zu : %f\n", numTareas, t1 - t0);
 
     return EXIT_SUCCESS;
 }
