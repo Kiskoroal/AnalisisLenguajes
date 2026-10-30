@@ -7,7 +7,7 @@ if [ $? -ne 0 ]; then
     exit 1
 fi
 echo "=== RESULTADOS BENCHMARK GO ===" > $OUTPUT_FILE
-for (( tareas=10000; tareas<=10000000; tareas+=10000 ))
+for (( tareas=1000; tareas<=100000; tareas+=1000 ))
 do
     echo "[!] Ejecutando Go con carga: $tareas tareas"
     echo "---- Carga: $tareas tareas ----" >> $OUTPUT_FILE

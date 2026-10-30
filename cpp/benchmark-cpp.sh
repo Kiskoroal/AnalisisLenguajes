@@ -1,6 +1,6 @@
 #!/bin/bash
 
-OUTPUT_FILE="benchmark-c++.dat"
+OUTPUT_FILE="benchmark-cpp.dat"
 
 echo "=== Iniciando compilación ==="
 make all
@@ -16,7 +16,7 @@ echo "==============================================="
 
 echo "=== RESULTADOS BENCHMARK C++  ===" > $OUTPUT_FILE
 
-for (( tareas=10000; tareas<=1000000; tareas+=10000 ))
+for (( tareas=1000; tareas<=100000; tareas+=1000 ))
 do
     echo "[!] Ejecutando con carga: $tareas tareas"
     
