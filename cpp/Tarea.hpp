@@ -12,15 +12,15 @@ class Tarea
         Tarea(size_t tiempoRestante, Prioridad prioridad = Prioridad::BAJA, Estado estadoTarea = Estado::ESPERA);
 
         //Métodos observadores
-        size_t id() const;
-        Prioridad prioridad() const;
-        size_t tiempoRestante() const;
-        Estado estado() const;
+        inline size_t id() const { return id_; };
+        inline Prioridad prioridad() const { return prioridad_; };
+        inline size_t tiempoRestante() const { return tiempoRestante_; };
+        inline Estado estado() const { return estado_; };
 
         //Métodos modificadores
-        Prioridad& prioridad();
-        size_t& tiempoRestante();
-        Estado& estado();
+        inline Prioridad& prioridad() { return prioridad_; };
+        inline size_t& tiempoRestante() { return tiempoRestante_; };
+        inline Estado& estado() { return estado_; };
     private :
         size_t id_, tiempoRestante_;
         Prioridad prioridad_;
