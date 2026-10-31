@@ -1,401 +1,401 @@
 === RESULTADOS BENCHMARK C++  ===
 ---- Carga: 1000 tareas ----
 Generando 1000 tareas.
-1000: 0.00113909
+1000: 3.9044e-05
 
 ---- Carga: 2000 tareas ----
 Generando 2000 tareas.
-2000: 0.00422009
+2000: 8.3308e-05
 
 ---- Carga: 3000 tareas ----
 Generando 3000 tareas.
-3000: 0.0107693
+3000: 0.000526965
 
 ---- Carga: 4000 tareas ----
 Generando 4000 tareas.
-4000: 0.0183661
+4000: 0.000279352
 
 ---- Carga: 5000 tareas ----
 Generando 5000 tareas.
-5000: 0.0292645
+5000: 0.000361159
 
 ---- Carga: 6000 tareas ----
 Generando 6000 tareas.
-6000: 0.0282784
+6000: 0.000433316
 
 ---- Carga: 7000 tareas ----
 Generando 7000 tareas.
-7000: 0.0357132
+7000: 0.000450188
 
 ---- Carga: 8000 tareas ----
 Generando 8000 tareas.
-8000: 0.039098
+8000: 0.000586698
 
 ---- Carga: 9000 tareas ----
 Generando 9000 tareas.
-9000: 0.0470787
+9000: 0.000441762
 
 ---- Carga: 10000 tareas ----
 Generando 10000 tareas.
-10000: 0.059306
+10000: 0.000747695
 
 ---- Carga: 11000 tareas ----
 Generando 11000 tareas.
-11000: 0.0585807
+11000: 0.00125588
 
 ---- Carga: 12000 tareas ----
 Generando 12000 tareas.
-12000: 0.0622646
+12000: 0.000569756
 
 ---- Carga: 13000 tareas ----
 Generando 13000 tareas.
-13000: 0.0679293
+13000: 0.000627265
 
 ---- Carga: 14000 tareas ----
 Generando 14000 tareas.
-14000: 0.0754402
+14000: 0.000689915
 
 ---- Carga: 15000 tareas ----
 Generando 15000 tareas.
-15000: 0.0862609
+15000: 0.000789144
 
 ---- Carga: 16000 tareas ----
 Generando 16000 tareas.
-16000: 0.0887674
+16000: 0.00080254
 
 ---- Carga: 17000 tareas ----
 Generando 17000 tareas.
-17000: 0.0900736
+17000: 0.000840872
 
 ---- Carga: 18000 tareas ----
 Generando 18000 tareas.
-18000: 0.0945823
+18000: 0.000888654
 
 ---- Carga: 19000 tareas ----
 Generando 19000 tareas.
-19000: 0.104946
+19000: 0.000935232
 
 ---- Carga: 20000 tareas ----
 Generando 20000 tareas.
-20000: 0.110762
+20000: 0.000989616
 
 ---- Carga: 21000 tareas ----
 Generando 21000 tareas.
-21000: 0.1149
+21000: 0.0016368
 
 ---- Carga: 22000 tareas ----
 Generando 22000 tareas.
-22000: 0.119294
+22000: 0.00112388
 
 ---- Carga: 23000 tareas ----
 Generando 23000 tareas.
-23000: 0.121485
+23000: 0.00149321
 
 ---- Carga: 24000 tareas ----
 Generando 24000 tareas.
-24000: 0.130058
+24000: 0.00139622
 
 ---- Carga: 25000 tareas ----
 Generando 25000 tareas.
-25000: 0.137395
+25000: 0.00199729
 
 ---- Carga: 26000 tareas ----
 Generando 26000 tareas.
-26000: 0.139195
+26000: 0.00129298
 
 ---- Carga: 27000 tareas ----
 Generando 27000 tareas.
-27000: 0.151029
+27000: 0.00136463
 
 ---- Carga: 28000 tareas ----
 Generando 28000 tareas.
-28000: 0.150522
+28000: 0.00142375
 
 ---- Carga: 29000 tareas ----
 Generando 29000 tareas.
-29000: 0.160469
+29000: 0.00145566
 
 ---- Carga: 30000 tareas ----
 Generando 30000 tareas.
-30000: 0.165389
+30000: 0.00149899
 
 ---- Carga: 31000 tareas ----
 Generando 31000 tareas.
-31000: 0.164306
+31000: 0.00156257
 
 ---- Carga: 32000 tareas ----
 Generando 32000 tareas.
-32000: 0.173098
+32000: 0.00160075
 
 ---- Carga: 33000 tareas ----
 Generando 33000 tareas.
-33000: 0.179219
+33000: 0.00168079
 
 ---- Carga: 34000 tareas ----
 Generando 34000 tareas.
-34000: 0.18195
+34000: 0.00172463
 
 ---- Carga: 35000 tareas ----
 Generando 35000 tareas.
-35000: 0.195762
+35000: 0.00178622
 
 ---- Carga: 36000 tareas ----
 Generando 36000 tareas.
-36000: 0.191135
+36000: 0.00183831
 
 ---- Carga: 37000 tareas ----
 Generando 37000 tareas.
-37000: 0.200803
+37000: 0.00239393
 
 ---- Carga: 38000 tareas ----
 Generando 38000 tareas.
-38000: 0.207269
+38000: 0.00192748
 
 ---- Carga: 39000 tareas ----
 Generando 39000 tareas.
-39000: 0.208527
+39000: 0.0026782
 
 ---- Carga: 40000 tareas ----
 Generando 40000 tareas.
-40000: 0.220576
+40000: 0.0020432
 
 ---- Carga: 41000 tareas ----
 Generando 41000 tareas.
-41000: 0.242052
+41000: 0.0033057
 
 ---- Carga: 42000 tareas ----
 Generando 42000 tareas.
-42000: 0.230587
+42000: 0.00214847
 
 ---- Carga: 43000 tareas ----
 Generando 43000 tareas.
-43000: 0.249824
+43000: 0.00218976
 
 ---- Carga: 44000 tareas ----
 Generando 44000 tareas.
-44000: 0.235301
+44000: 0.00225054
 
 ---- Carga: 45000 tareas ----
 Generando 45000 tareas.
-45000: 0.24789
+45000: 0.0023174
 
 ---- Carga: 46000 tareas ----
 Generando 46000 tareas.
-46000: 0.251152
+46000: 0.00234495
 
 ---- Carga: 47000 tareas ----
 Generando 47000 tareas.
-47000: 0.25291
+47000: 0.00317607
 
 ---- Carga: 48000 tareas ----
 Generando 48000 tareas.
-48000: 0.257877
+48000: 0.00245278
 
 ---- Carga: 49000 tareas ----
 Generando 49000 tareas.
-49000: 0.261419
+49000: 0.00250491
 
 ---- Carga: 50000 tareas ----
 Generando 50000 tareas.
-50000: 0.281451
+50000: 0.00259231
 
 ---- Carga: 51000 tareas ----
 Generando 51000 tareas.
-51000: 0.277112
+51000: 0.00416976
 
 ---- Carga: 52000 tareas ----
 Generando 52000 tareas.
-52000: 0.28258
+52000: 0.00350591
 
 ---- Carga: 53000 tareas ----
 Generando 53000 tareas.
-53000: 0.287852
+53000: 0.0027358
 
 ---- Carga: 54000 tareas ----
 Generando 54000 tareas.
-54000: 0.289385
+54000: 0.0027849
 
 ---- Carga: 55000 tareas ----
 Generando 55000 tareas.
-55000: 0.308591
+55000: 0.00285697
 
 ---- Carga: 56000 tareas ----
 Generando 56000 tareas.
-56000: 0.304967
+56000: 0.00295222
 
 ---- Carga: 57000 tareas ----
 Generando 57000 tareas.
-57000: 0.321279
+57000: 0.00299541
 
 ---- Carga: 58000 tareas ----
 Generando 58000 tareas.
-58000: 0.31188
+58000: 0.00305358
 
 ---- Carga: 59000 tareas ----
 Generando 59000 tareas.
-59000: 0.314201
+59000: 0.00304943
 
 ---- Carga: 60000 tareas ----
 Generando 60000 tareas.
-60000: 0.331517
+60000: 0.00311869
 
 ---- Carga: 61000 tareas ----
 Generando 61000 tareas.
-61000: 0.326242
+61000: 0.0032365
 
 ---- Carga: 62000 tareas ----
 Generando 62000 tareas.
-62000: 0.341071
+62000: 0.0032117
 
 ---- Carga: 63000 tareas ----
 Generando 63000 tareas.
-63000: 0.334811
+63000: 0.00327175
 
 ---- Carga: 64000 tareas ----
 Generando 64000 tareas.
-64000: 0.363304
+64000: 0.00331806
 
 ---- Carga: 65000 tareas ----
 Generando 65000 tareas.
-65000: 0.362923
+65000: 0.0033821
 
 ---- Carga: 66000 tareas ----
 Generando 66000 tareas.
-66000: 0.35526
+66000: 0.00403686
 
 ---- Carga: 67000 tareas ----
 Generando 67000 tareas.
-67000: 0.360936
+67000: 0.00349047
 
 ---- Carga: 68000 tareas ----
 Generando 68000 tareas.
-68000: 0.369693
+68000: 0.00370263
 
 ---- Carga: 69000 tareas ----
 Generando 69000 tareas.
-69000: 0.384368
+69000: 0.00363368
 
 ---- Carga: 70000 tareas ----
 Generando 70000 tareas.
-70000: 0.381649
+70000: 0.00367338
 
 ---- Carga: 71000 tareas ----
 Generando 71000 tareas.
-71000: 0.386233
+71000: 0.0039513
 
 ---- Carga: 72000 tareas ----
 Generando 72000 tareas.
-72000: 0.386167
+72000: 0.00383232
 
 ---- Carga: 73000 tareas ----
 Generando 73000 tareas.
-73000: 0.395441
+73000: 0.00385983
 
 ---- Carga: 74000 tareas ----
 Generando 74000 tareas.
-74000: 0.402722
+74000: 0.00432166
 
 ---- Carga: 75000 tareas ----
 Generando 75000 tareas.
-75000: 0.410315
+75000: 0.00396913
 
 ---- Carga: 76000 tareas ----
 Generando 76000 tareas.
-76000: 0.419095
+76000: 0.00403466
 
 ---- Carga: 77000 tareas ----
 Generando 77000 tareas.
-77000: 0.419439
+77000: 0.00420244
 
 ---- Carga: 78000 tareas ----
 Generando 78000 tareas.
-78000: 0.419964
+78000: 0.00409944
 
 ---- Carga: 79000 tareas ----
 Generando 79000 tareas.
-79000: 0.427065
+79000: 0.0042856
 
 ---- Carga: 80000 tareas ----
 Generando 80000 tareas.
-80000: 0.433678
+80000: 0.00424803
 
 ---- Carga: 81000 tareas ----
 Generando 81000 tareas.
-81000: 0.446992
+81000: 0.0042536
 
 ---- Carga: 82000 tareas ----
 Generando 82000 tareas.
-82000: 0.441445
+82000: 0.00440522
 
 ---- Carga: 83000 tareas ----
 Generando 83000 tareas.
-83000: 0.453367
+83000: 0.00440135
 
 ---- Carga: 84000 tareas ----
 Generando 84000 tareas.
-84000: 0.456771
+84000: 0.00444747
 
 ---- Carga: 85000 tareas ----
 Generando 85000 tareas.
-85000: 0.472039
+85000: 0.00453383
 
 ---- Carga: 86000 tareas ----
 Generando 86000 tareas.
-86000: 0.514879
+86000: 0.00454229
 
 ---- Carga: 87000 tareas ----
 Generando 87000 tareas.
-87000: 0.5022
+87000: 0.00466072
 
 ---- Carga: 88000 tareas ----
 Generando 88000 tareas.
-88000: 0.481367
+88000: 0.00473019
 
 ---- Carga: 89000 tareas ----
 Generando 89000 tareas.
-89000: 0.493053
+89000: 0.00493449
 
 ---- Carga: 90000 tareas ----
 Generando 90000 tareas.
-90000: 0.499538
+90000: 0.00489134
 
 ---- Carga: 91000 tareas ----
 Generando 91000 tareas.
-91000: 0.492463
+91000: 0.00593285
 
 ---- Carga: 92000 tareas ----
 Generando 92000 tareas.
-92000: 0.500347
+92000: 0.00566478
 
 ---- Carga: 93000 tareas ----
 Generando 93000 tareas.
-93000: 0.507506
+93000: 0.00496531
 
 ---- Carga: 94000 tareas ----
 Generando 94000 tareas.
-94000: 0.506766
+94000: 0.00506415
 
 ---- Carga: 95000 tareas ----
 Generando 95000 tareas.
-95000: 0.518173
+95000: 0.0050731
 
 ---- Carga: 96000 tareas ----
 Generando 96000 tareas.
-96000: 0.511472
+96000: 0.00537258
 
 ---- Carga: 97000 tareas ----
 Generando 97000 tareas.
-97000: 0.529487
+97000: 0.00550159
 
 ---- Carga: 98000 tareas ----
 Generando 98000 tareas.
-98000: 0.525565
+98000: 0.00545174
 
 ---- Carga: 99000 tareas ----
 Generando 99000 tareas.
-99000: 0.538455
+99000: 0.00572297
 
 ---- Carga: 100000 tareas ----
 Generando 100000 tareas.
-100000: 0.54276
+100000: 0.00560539
 
